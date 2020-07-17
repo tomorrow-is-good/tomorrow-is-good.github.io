@@ -5,9 +5,9 @@
   <subtitle>天青色等烟雨，我在等你</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://blog.circleword.club/"/>
   <updated>2020-07-15T09:54:53.032Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://blog.circleword.club/</id>
   
   <author>
     <name>李泫廷</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/07/15/hello-world/"/>
-    <id>http://yoursite.com/2020/07/15/hello-world/</id>
+    <link href="https://blog.circleword.club/2020/07/15/hello-world/"/>
+    <id>https://blog.circleword.club/2020/07/15/hello-world/</id>
     <published>2020-07-15T04:08:57.000Z</published>
     <updated>2020-07-15T09:54:53.032Z</updated>
     
@@ -36,19 +36,19 @@
     </summary>
     
     
-      <category term="hexo" scheme="http://yoursite.com/categories/hexo/"/>
+      <category term="hexo" scheme="https://blog.circleword.club/categories/hexo/"/>
     
     
-      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+      <category term="hexo" scheme="https://blog.circleword.club/tags/hexo/"/>
     
-      <category term="Java" scheme="http://yoursite.com/tags/Java/"/>
+      <category term="Java" scheme="https://blog.circleword.club/tags/Java/"/>
     
   </entry>
   
   <entry>
     <title>hexo,搭建个人博客</title>
-    <link href="http://yoursite.com/2020/03/06/hexo-da-jian-ge-ren-bo-ke/"/>
-    <id>http://yoursite.com/2020/03/06/hexo-da-jian-ge-ren-bo-ke/</id>
+    <link href="https://blog.circleword.club/2020/03/06/hexo-da-jian-ge-ren-bo-ke/"/>
+    <id>https://blog.circleword.club/2020/03/06/hexo-da-jian-ge-ren-bo-ke/</id>
     <published>2020-03-06T13:28:57.000Z</published>
     <updated>2020-03-07T07:14:27.000Z</updated>
     
@@ -65,26 +65,26 @@
     </summary>
     
     
-      <category term="hexo" scheme="http://yoursite.com/categories/hexo/"/>
+      <category term="hexo" scheme="https://blog.circleword.club/categories/hexo/"/>
     
-      <category term="cdn" scheme="http://yoursite.com/categories/hexo/cdn/"/>
+      <category term="cdn" scheme="https://blog.circleword.club/categories/hexo/cdn/"/>
     
-      <category term="oss" scheme="http://yoursite.com/categories/hexo/cdn/oss/"/>
+      <category term="oss" scheme="https://blog.circleword.club/categories/hexo/cdn/oss/"/>
     
-      <category term="nginx" scheme="http://yoursite.com/categories/hexo/cdn/oss/nginx/"/>
+      <category term="nginx" scheme="https://blog.circleword.club/categories/hexo/cdn/oss/nginx/"/>
     
-      <category term="shell" scheme="http://yoursite.com/categories/hexo/cdn/oss/nginx/shell/"/>
+      <category term="shell" scheme="https://blog.circleword.club/categories/hexo/cdn/oss/nginx/shell/"/>
     
     
-      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+      <category term="hexo" scheme="https://blog.circleword.club/tags/hexo/"/>
     
-      <category term="nginx" scheme="http://yoursite.com/tags/nginx/"/>
+      <category term="nginx" scheme="https://blog.circleword.club/tags/nginx/"/>
     
-      <category term="cdn" scheme="http://yoursite.com/tags/cdn/"/>
+      <category term="cdn" scheme="https://blog.circleword.club/tags/cdn/"/>
     
-      <category term="oss" scheme="http://yoursite.com/tags/oss/"/>
+      <category term="oss" scheme="https://blog.circleword.club/tags/oss/"/>
     
-      <category term="shell" scheme="http://yoursite.com/tags/shell/"/>
+      <category term="shell" scheme="https://blog.circleword.club/tags/shell/"/>
     
   </entry>
   
