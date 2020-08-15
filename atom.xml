@@ -5,9 +5,9 @@
   <subtitle>我心中有你，你心中有我</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://blog.circleword.club/"/>
+  <link href="https://circleword.club/"/>
   <updated>2020-07-21T12:47:06.926Z</updated>
-  <id>https://blog.circleword.club/</id>
+  <id>https://circleword.club/</id>
   
   <author>
     <name>李泫廷</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://blog.circleword.club/posts/16107.html"/>
-    <id>https://blog.circleword.club/posts/16107.html</id>
+    <link href="https://circleword.club/posts/16107.html"/>
+    <id>https://circleword.club/posts/16107.html</id>
     <published>2020-07-15T04:08:57.000Z</published>
     <updated>2020-07-21T12:47:06.926Z</updated>
     
@@ -36,12 +36,12 @@
     </summary>
     
     
-      <category term="hexo" scheme="https://blog.circleword.club/categories/hexo/"/>
+      <category term="hexo" scheme="https://circleword.club/categories/hexo/"/>
     
     
-      <category term="hexo" scheme="https://blog.circleword.club/tags/hexo/"/>
+      <category term="hexo" scheme="https://circleword.club/tags/hexo/"/>
     
-      <category term="Java" scheme="https://blog.circleword.club/tags/Java/"/>
+      <category term="Java" scheme="https://circleword.club/tags/Java/"/>
     
   </entry>
   
