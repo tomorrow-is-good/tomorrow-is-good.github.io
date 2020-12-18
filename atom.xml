@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://circleword.club/"/>
-  <updated>2020-12-18T15:06:13.881Z</updated>
+  <updated>2020-12-18T15:14:14.535Z</updated>
   <id>https://circleword.club/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>mysql</title>
+    <title>Mysql数据库</title>
     <link href="https://circleword.club/posts/13153.html"/>
     <id>https://circleword.club/posts/13153.html</id>
-    <published>2020-12-18T15:06:00.093Z</published>
-    <updated>2020-12-18T15:06:13.881Z</updated>
+    <published>2020-12-18T15:00:00.000Z</published>
+    <updated>2020-12-18T15:14:14.535Z</updated>
     
     <summary type="html">
     
@@ -36,6 +36,10 @@
     </summary>
     
     
+      <category term="数据库" scheme="https://circleword.club/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    
+      <category term="Mysql" scheme="https://circleword.club/tags/Mysql/"/>
     
   </entry>
   
@@ -44,7 +48,7 @@
     <link href="https://circleword.club/posts/12923.html"/>
     <id>https://circleword.club/posts/12923.html</id>
     <published>2020-12-18T14:30:00.000Z</published>
-    <updated>2020-12-18T14:40:52.187Z</updated>
+    <updated>2020-12-18T15:13:26.610Z</updated>
     
     <summary type="html">
     
