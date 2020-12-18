@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://circleword.club/"/>
-  <updated>2020-12-18T14:30:59.064Z</updated>
+  <updated>2020-12-18T14:40:52.187Z</updated>
   <id>https://circleword.club/</id>
   
   <author>
@@ -20,8 +20,8 @@
     <title>布隆过滤器</title>
     <link href="https://circleword.club/posts/12923.html"/>
     <id>https://circleword.club/posts/12923.html</id>
-    <published>2020-12-06T10:48:00.381Z</published>
-    <updated>2020-12-18T14:30:59.064Z</updated>
+    <published>2020-12-18T14:30:00.000Z</published>
+    <updated>2020-12-18T14:40:52.187Z</updated>
     
     <summary type="html">
     
@@ -36,6 +36,8 @@
     </summary>
     
     
+    
+      <category term="redis" scheme="https://circleword.club/tags/redis/"/>
     
   </entry>
   
